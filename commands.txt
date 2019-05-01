@@ -1,0 +1,18 @@
+traceroute google.com
+
+whois google.com
+
+nslookup google.com
+
+dig google.com
+
+dig google.com ANY
+
+ifconfig
+
+traceroute
+
+ping google.com
+
+
+
